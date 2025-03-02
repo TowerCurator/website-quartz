@@ -1,0 +1,80 @@
+---
+longform:
+  format: scenes
+  title: Fortress Al-Mir
+  workflow: Default Workflow
+  sceneFolder: /
+  scenes:
+    - 01 - The Hunt
+    - 02 - The Cursed Forest
+    - 03 - Fortress Al-Mir
+    - 04 - Langleey Village
+    - 05 - Contract
+    - 06 - The Defense of Langleey
+    - 07 - Discussions and Promises
+    - 08 - Plots and Plans
+    - 09 - Fortress Al-Mir's New Room
+    - 10 - Orcs and Offers
+    - 11 - The Barrows
+    - 12 - The Chieftain
+    - 13 - Aftermath of the Barrows
+    - 14 - Harvest
+    - 15 - Leaving Langleey
+    - 16 - The City of Cliff
+    - 17 - Investigating the Leads
+    - 18 - Explorations and Gambling
+    - 19 - The Inquisition of The Light
+    - 20 - Viscount Wesley
+    - 21 - Departure
+    - 22 - Fortress Maintenance
+    - 23 - Visit to Cliff Aftermath
+    - 32 - Darkwood Defense Aftermath
+    - 35 - Recruitment
+    - 36 - Confrontation
+    - 37 - A Return Home
+    - 38 - The Ruins of Fortress Al-Mir
+    - 39 - Silver City
+    - 40 - The Mines of Silver City
+    - 41 - Mesmeratic Magic
+    - 42 - Silver City Aftermath
+    - 43 - The Evening Before
+    - 44 - Sick Tension
+    - 45 - Fresh Air
+    - 46 - Invasion
+    - 47 - Turning Up The Heat
+    - 48 - Inquisitorial Support
+    - 49 - The Flame Witch
+    - 50 - Settling In
+    - 51 - Inquisition Expedition Aftermath
+    - 52 - Reassessment
+    - 53 - Moonshine Burg
+    - 54 - Visibility
+    - 55 - Bandit Lord
+    - 56 - Turnabout
+    - 57 - Readying Up
+    - 58 - Slavers
+    - 59 - Freedom
+    - 60 - Slaver Aftermath
+    - 61 - Plans and Preparation
+    - 62 - Return to the City of Cliff
+    - 63 - Fallen Plans
+    - 64 - Scouting Mission
+    - 65 - Interviews
+    - 66 - Recruits and Tea
+    - 67 - The Duke's Manor
+    - 68 - The Party, Interrupted
+    - 69 - The Party, Intercepted
+    - 70 - The Party, Interloper
+    - 71 - The Party, Incinerated
+    - 72 - Aftermath of the Duke's Party - Hawkwood
+    - 73 - Aftermath of the Duke's Party - Vrox
+    - 74 - Aftermath of the Duke's Party - Sule
+  ignoredFiles:
+    - manuscript
+    - Fortress Al-Mir
+    - Fortress Al-Mir
+    - Index (Aelphais Mangrae's conflicted copy 2023-04-16) (Aelphais Mangrae's conflicted copy 2023-04-16)
+    - Index (Aelphais Mangrae's conflicted copy 2023-04-16)
+    - 24 - Magical Experiments (Aelphais Mangrae's conflicted copy 2023-04-17)
+    - 32 - Darkwood Defense Aftermath (Aelphais Mangrae's conflicted copy 2023-04-17)
+---
