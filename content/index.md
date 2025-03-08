@@ -29,3 +29,9 @@ Almost immediately, Dyna realized that she wasn’t quite up to the same level a
 That was, up until the researchers and scientists of the facility realized that there was a bit more to Dyna Graves than met the eye. After an explosive incident during what should have been a routine experiment, Dyna quickly found herself wrapped up in a world of cutthroat espionage.
 
 ![[cover.jpg]]
+
+## The Projects Apartment Complex
+### Read Here
+placeholder
+### Synopsis
+The Projects Synopsis
